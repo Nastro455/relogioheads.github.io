@@ -10,7 +10,7 @@ body {
 	align-items: center;
 	flex-direction: column; /* Altera a direção do layout para coluna */
 	height: 100vh;
-	background-color: #080808; /* Cor de fundo para maior contraste */
+	background-color: #535353; /* Cor de fundo para maior contraste */
 }
 
 .clock {
