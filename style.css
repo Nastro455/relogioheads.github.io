@@ -21,7 +21,7 @@ body {
 
 .flip {
 	position: relative;
-	width: 150px;  /* Aumentar a largura */
+	width: 90px;  /* Aumentar a largura */
 	height: 200px; /* Aumentar a altura */
 	margin: 5px;   /* Ajustar o espaçamento */
 	font-size: 120px; /* Aumentar o tamanho da fonte */
